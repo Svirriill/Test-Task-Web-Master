@@ -1,0 +1,37 @@
+.secondTask {
+    max-width: 880px;
+    margin-left: 120px;
+}
+
+.secondTask__title {
+    font-weight: 900px;
+    font-size: 36px;
+    line-height: 1.25;
+}
+
+.secondTask__subtitle {
+    font-weight: 600px;
+    font-size: 24px;
+    line-height: 1.25;
+}
+
+.secondTask__paragraph {
+    font-size: 14px;
+    line-height: 1.15;
+}
+
+.secondTask__list-container {
+    margin-left: 80px;
+}
+
+.secondTask__list-item {
+    font-weight: 600px;
+}
+
+.secondTask__image {
+    object-fit: contain;
+    max-width: 400px;
+    max-height: 600px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
